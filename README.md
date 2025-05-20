@@ -1,4 +1,9 @@
 # nxiaedtech
+## Trademark Notice 🚨
+The name **Nxia** is currently undergoing trademark registration. Unauthorized use of the name for commercial or branding purposes is **strictly prohibited** without prior consultation. 
+
+For inquiries regarding licensing or franchising, please contact Rugshana[edtechrsa@gmail.com].
+
 Planning for EdTech AI Guardrails 
 
 AI Guardrail Architecture
